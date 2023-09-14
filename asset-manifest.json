@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/goit-react-router/static/css/main.7acaea2f.css",
+    "main.js": "/goit-react-router/static/js/main.07d3183d.js",
+    "index.html": "/goit-react-router/index.html",
+    "main.7acaea2f.css.map": "/goit-react-router/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/goit-react-router/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
