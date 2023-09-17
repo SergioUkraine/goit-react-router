@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/273.7f13adcd.chunk.js","mappings":"gMAIA,MAJA,WACE,OAAO,4DACR,C","sources":["pages/NotFound/NotFound.jsx"],"sourcesContent":["function NotFound() {\n  return <div>Unfortunately nothing was found</div>;\n}\n\nexport default NotFound;\n"],"names":[],"sourceRoot":""}

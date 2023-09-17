@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/122.23170c98.chunk.js","mappings":"gMAIA,MAJA,WACE,OAAO,qCACR,C","sources":["components/Reviews/Reviews.jsx"],"sourcesContent":["function Reviews() {\n  return <div> Reviews</div>;\n}\n\nexport default Reviews;\n"],"names":[],"sourceRoot":""}
